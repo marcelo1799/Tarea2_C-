@@ -24,7 +24,7 @@ Este proyecto no solo representa una herramienta valiosa para la gestión logís
    ```bash
    sudo apt-get install g++
 
-4. Make (para ejecutar el comando 'make'):
+4. Make para ejecutar el comando 'make':
    ```bash
    sudo apt-get install make
 
