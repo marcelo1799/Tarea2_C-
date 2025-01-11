@@ -10,6 +10,9 @@ Una vez seleccionados los parámetros, el sistema procesa la información utiliz
 
 Este proyecto no solo representa una herramienta valiosa para la gestión logística, sino que también sirve como un ejemplo práctico de la aplicación de algoritmos de optimización en problemas del mundo real, demostrando cómo la tecnología puede mejorar significativamente la eficiencia en los procesos de distribución y transporte.
 
+
+![Descripción de la imagen](Data/Diagrama.jpg)
+
 ## Dependencias 
 
 1. Git para clonar el repositorio:
