@@ -28,6 +28,10 @@ Este proyecto no solo representa una herramienta valiosa para la gestión logís
    ```bash
    sudo apt-get install make
 
+5. Qt creator:
+   ```bash
+   sudo apt-get install qtbase5-dev qt5-qmake
+
 
 ## Compilación e Instalación
 
