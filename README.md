@@ -39,7 +39,8 @@ Sigue estos pasos para compilar e instalar el proyecto:
 
 2. Abre el repositorio y dirigete al directorio de compilacion
    ```bash
-   cd ~/Tarea2_C-/Centro_de_distribucion/build
+   cd ~/Tarea2_C-/Centro_de_distribucion/
+   mkdir build && cd build
 
 3. Ejecuta CMake para generar los archivos de compilación:
    ```bash
