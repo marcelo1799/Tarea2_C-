@@ -49,4 +49,4 @@ Sigue estos pasos para compilar e instalar el proyecto:
 
 4. Ejecuta el programa:
     ```bash
-   ./Ejecutable
+   ./untitled
